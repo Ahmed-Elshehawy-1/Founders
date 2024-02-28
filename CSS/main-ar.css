@@ -1,0 +1,89 @@
+body{
+    direction: rtl;
+    font-family: "Noto Kufi Arabic", sans-serif;
+    max-width: 100%;
+}
+
+.main_nav li a::after {
+    right: 0;
+}
+nav{
+    direction: ltr;
+}
+.main_nav li {
+    letter-spacing: 0;
+    font-weight: 400;
+}
+.ls{
+letter-spacing: 0;
+}
+/* start services  */
+.services h3{
+    letter-spacing: normal;
+    font-size: 35px;
+    color: black;
+}
+.services p{
+    letter-spacing: normal;
+    color: #777;
+    font-size: 20px;
+}
+.services .box p{
+    font-size: 14px;
+}
+/* End services  */
+/* start about  */
+.vision h3
+{
+    letter-spacing: 0;
+}
+/* End about  */
+
+/* start wesal  */
+.WG h2
+{
+    letter-spacing: normal;
+    text-align: right;
+}
+.WG a{
+    letter-spacing: normal;
+}
+.invst-facts
+{
+    direction: ltr;
+}
+.invst-facts h2
+{
+    letter-spacing: normal;
+    font-size: 35px;
+}
+.gallary h2{
+    letter-spacing: normal;
+    font-size: 40px;
+}
+footer h6{
+    letter-spacing: normal;
+}
+/* End wesal  */
+
+/* start About  */
+.vision .text h3 {
+    letter-spacing: normal;
+}
+.people .text h3{
+letter-spacing: normal;
+}
+.mession .text h3{
+    letter-spacing: normal;
+}
+.props h3{
+    letter-spacing: normal;
+}
+/* End About  */
+.about h2,
+.about p,
+.achievements .paragraph,
+.achievements h2
+{
+    letter-spacing: normal;
+}
